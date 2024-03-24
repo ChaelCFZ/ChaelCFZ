@@ -1,8 +1,6 @@
 body {
     color: white;
-    background-image: url(./ok-cat.gif);
-    background-size: 100%;
-    background-repeat:round ;
+    background-color: black;
 }
 
 ul {
@@ -50,9 +48,7 @@ footer a {
 footer p {
     margin-top: 2px;
 }
-footer p:hover {
-    color: orange;
-}
+
 
 .container {
     padding: 0px 50px;
